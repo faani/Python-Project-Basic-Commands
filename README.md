@@ -5,6 +5,9 @@
 I have created a Python project with basic commands and output  
 
 
+print() function displays
+
+
 
 
 ![image](https://github.com/faani/Python-Project-Basic-Commands/assets/18075830/0d2509ad-c850-49de-8730-c41684da48c2)
